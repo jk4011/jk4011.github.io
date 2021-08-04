@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jinhyeok Kim
-title: University student of UNIST, Republic of Korea
+title: Undergraduate student of UNIST, Republic of Korea
 email: wlsgur4011@unist.ac.kr
 website: https://jk4011.github.io/
 
@@ -54,25 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: LIM LAB, UNIST
-        link_text: https://sites.google.com/view/sungbin/home
-        sub_title: Intern
-        caption: 2021.4 - Present
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Tenuto
-        link_text: https://www.saramin.co.kr/zf_user/company-info/view/csn/d2ZZcy9qVlh3S0pRYUNYc0R2Y3JMZz09/company_nm/(%EC%A3%BC)%ED%85%8C%EB%88%84%ED%86%A0
-        # link_text: boringcompany.com
-        sub_title: Backend Engineer
-        caption: 2020.6 - 2020.12
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -80,6 +61,24 @@ content:
         title: UNIST, Republic of Korea
         caption: 2018.3 - Present
         sub_title: BSc Computer Science
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: LIM LAB, UNIST
+        # link_text: https://sites.google.com/view/sungbin/home
+        sub_title: Intern
+        caption: 2021.4 - Present
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Tenuto
+        # link_text: https://www.saramin.co.kr/zf_user/company-info/view/csn/d2ZZcy9qVlh3S0pRYUNYc0R2Y3JMZz09/company_nm/(%EC%A3%BC)%ED%85%8C%EB%88%84%ED%86%A0
+        # link_text: boringcompany.com
+        sub_title: Backend Engineer
+        caption: 2020.6 - 2020.12
+
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
