@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jinhyeok Kim
-title: Undergraduate student of UNIST, Republic of Korea
+title: Undergraduate student of UNIST, Korea
 email: wlsgur4011@unist.ac.kr
 website: https://jk4011.github.io/
 
@@ -54,14 +54,15 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: UNIST, Republic of Korea
-        caption: 2018.3 - Present
-        sub_title: BSc Computer Science
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: UNIST
+  #       caption: 2018.3 - Present
+  #       sub_title: major in Computer Science
 
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -69,7 +70,7 @@ content:
         # link_text: https://sites.google.com/view/sungbin/home
         sub_title: Intern
         caption: 2021.4 - Present
-  - title: Education # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
